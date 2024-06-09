@@ -92,3 +92,35 @@ election-results-mobile-app
     // Add more entries as needed
 ]
 ```
+
+## Usage
+
+### Viewing the Data:
+
+The app displays election results in a table format with columns for constituency name, state, winner, and other relevant data.
+
+### Sorting:
+
+Click on any column header to sort the table by that column.
+
+### Filtering:
+
+Use the search input to filter results by state or constituency name.
+
+## Contributing
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Make your changes and commit them (`git commit -m 'Add new feature'`).
+4. Push to the branch (`git push origin feature-branch`).
+5. Create a new Pull Request.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Acknowledgements
+
+Thanks to the React Native and Expo communities for their amazing tools and libraries.  
+Special thanks to Genymotion for providing a great Android emulator.
+
